@@ -1,0 +1,7 @@
+dx-measure {
+  display: inline-block;
+  position: relative; }
+  dx-measure .dx-overlay {
+    position: absolute;
+    z-index: 999;
+    cursor: crosshair; }
